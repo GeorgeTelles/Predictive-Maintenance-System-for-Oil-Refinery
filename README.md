@@ -1,4 +1,3 @@
-```markdown
 # Predictive Maintenance System for Oil Refinery
 
 This system was developed to monitor and optimize equipment maintenance operations in an oil refinery. It uses machine learning to predict equipment failures and generate preventive maintenance recommendations, improving the efficiency and safety of operations.
@@ -46,4 +45,3 @@ This system was developed to monitor and optimize equipment maintenance operatio
 - **Operational Efficiency**: Better allocation of maintenance resources, prioritizing equipment with higher failure risks.
 
 This system can be a powerful tool for refining maintenance processes in an oil refinery, promoting greater safety, cost reduction, and increasing equipment lifespan.
-```
